@@ -1,5 +1,5 @@
 
-# NHL Data Visualizer Playoff Risers vs Fallers
+# NHL-Data-Visualizer-Playoff-Champion-or-Choker
 ### Created by Justin and Joel
 
 ## Walkthrough Video
