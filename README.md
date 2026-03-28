@@ -1,4 +1,4 @@
-
+Note: This Project has been forked, non of the original commits are on this Public version
 # NHL-Data-Visualizer-Playoff-Champion-or-Choker
 ### Created by Justin and Joel
 
